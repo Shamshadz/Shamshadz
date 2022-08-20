@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shamshadz
 - 👀 I’m interested in Webapplication
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on webdevelop porjects of mine or anyones else
 - 📫 How to reach me @-- choudharyshamshad007@gmail.com
 
